@@ -45,9 +45,6 @@ ruby calc.rb
 
 4. Suivez les instructions affichées dans le terminal pour effectuer des calculs géométriques ou des opérations de résistance.
 
-## Contribuer
-
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet ou ajouter de nouvelles fonctionnalités, n'hésitez pas à soumettre une demande d'extraction.
 
 ## Licence
 
