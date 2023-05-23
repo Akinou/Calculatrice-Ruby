@@ -1,5 +1,5 @@
 loop do
-    puts "=== Calculatrice avancée by ChatGPT ==="
+    puts "=== Calculatrice avancée ==="
     puts "Opérations disponibles :"
     puts "1. Addition"
     puts "2. Soustraction"
@@ -72,7 +72,7 @@ loop do
       puts "Résultat : #{result}"
     when 10
       puts "Félicitations ! Vous avez découvert l'opération secrète."
-      puts "ChatGPT est ravi de vous informer que vous avez gagné... absolument rien !"
+      puts "Je suis ravi de vous informer que vous avez gagné... absolument rien !"
     when 11
       print "Entrez la fonction : "
       function = gets.chomp
